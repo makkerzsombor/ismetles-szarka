@@ -1,0 +1,50 @@
+body{
+    background-color: aliceblue;
+    color: darkblue;    
+}
+a:link,a:visited,a:hover{
+    color: crimson;
+}
+.cimk{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+hr{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+h2{
+    color: crimson;
+}
+.k1,.k2{
+    width: 230px;
+    height: 153px;
+    border: 1px solid;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.tjobb{
+    width: 240px;
+    text-align: right;
+}
+.tbal{
+    width: 260px;
+    text-align: left;
+}
+.bt{
+    border-spacing: 6px;
+}
+.kiem{
+    text-align: center;
+    background-color: crimson;
+    color: aliceblue;
+}
+.koz{
+    text-align: center;
+}
